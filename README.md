@@ -1,5 +1,3 @@
-# .github
-
 # Seamissions
 ## Quantifying Greenhouse Gas Emissions Associated With Global Seafood Production
 #### UCSB Masters of Environmental Data Science 2025
