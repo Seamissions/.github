@@ -1,6 +1,7 @@
 # Seamissions
 ## Quantifying Greenhouse Gas Emissions Associated With Global Seafood Production
-#### UCSB Masters of Environmental Data Science 2025
+#### This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) class of 2025 at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara”
+
 **Client:** [EmLab](https://github.com/emlab-ucsb)
 
 **Faculty Advisor:** [Gavin McDonald](https://github.com/gmcdonald-sfg)
