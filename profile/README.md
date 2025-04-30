@@ -5,7 +5,7 @@
 
 <sub>
 Source: Global Fishing Watch (2021).  
-[https://globalfishingwatch.org/data/global-ocean-mapping/](https://globalfishingwatch.org/data/global-ocean-mapping/)
+[globalfishingwatch.org](https://globalfishingwatch.org/data/global-ocean-mapping/)
 </sub>
 
 
