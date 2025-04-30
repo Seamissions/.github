@@ -4,7 +4,7 @@
 <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800"/>
 
 <sub>
-Source: Global Fishing Watch (2021).  [globalfishingwatch.org](https://globalfishingwatch.org/data/global-ocean-mapping/)
+Source: Global Fishing Watch (2021). https://globalfishingwatch.org/data/global-ocean-mapping/
 </sub>
 
 
