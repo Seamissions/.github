@@ -2,9 +2,12 @@
 ## Quantifying Greenhouse Gas Emissions Associated With Global Seafood Production
 
 <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800"/>
-<p style="font-size: 0.35em; color: #555;">
-Source: Global Fishing Watch (2021). Mapping Industrial Activity at Sea, 2017–2021.\n
-<a href="https://globalfishingwatch.org/data/global-ocean-mapping/" target="_blank">https://globalfishingwatch.org/data/global-ocean-mapping/</a>
+
+<p style="font-size: 0.8em; color: #555;">
+Source: Global Fishing Watch (2021). Mapping Industrial Activity at Sea, 2017–2021.<br>
+<a href="https://globalfishingwatch.org/data/global-ocean-mapping/" target="_blank">
+https://globalfishingwatch.org/data/global-ocean-mapping/
+</a>
 </p>
 
 #### This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) class of 2025 at [Bren School of Environmental Science and Management](https://bren.ucsb.edu/), University of California, Santa Barbara
