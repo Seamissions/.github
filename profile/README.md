@@ -25,10 +25,13 @@ This organization houses three repositories for the Seamissions project:
 All of the data used in this project was provided by emLab. The data itself is housed on the emLab server and is accessed automatically by runing the code found in the *emissions_pipeline* repository.
 
 ### Team Members
-[Carmen Hoyt](https://bren.ucsb.edu/people/carmen-hoyt): [website](https://ceh58.github.io/)
-[Josh Mull](https://bren.ucsb.edu/people/joshua-mull): [website](https://llumj.github.io/)
-[Nicole Pepper](https://bren.ucsb.edu/people/nicole-pepper): [website](https://nicolelpepper.github.io/)
-[Stephen Carroll](https://bren.ucsb.edu/people/stephen-carroll): [website](https://stephenccodes.github.io/)
+[Carmen Hoyt](https://bren.ucsb.edu/people/carmen-hoyt):  [Github](https://github.com/orgs/Seamissions/people/ceh58) | [Linkedin](https://www.linkedin.com/in/carmen-hoyt-952272153/) | [website](https://ceh58.github.io/))
+
+[Josh Mull](https://bren.ucsb.edu/people/joshua-mull): [Github](https://github.com/orgs/Seamissions/people/llumj) | [Linkedin](https://www.linkedin.com/in/joshua-mull-046a7832b/) | [website](https://llumj.github.io/)
+
+[Nicole Pepper](https://bren.ucsb.edu/people/nicole-pepper): [Github](https://github.com/orgs/Seamissions/people/nicolelpepper) | [Linkedin](https://www.linkedin.com/in/nicole-pepper/) | [website](https://nicolelpepper.github.io/)
+
+[Stephen Carroll](https://bren.ucsb.edu/people/stephen-carroll): [Github](https://github.com/orgs/Seamissions/people/stephenccodes) | [Linkedin](https://www.linkedin.com/in/stephen-carroll-754b5191/) | [website](https://stephenccodes.github.io/)
 
 ### Clients
 [EmLab](https://github.com/emlab-ucsb)
