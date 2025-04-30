@@ -3,7 +3,7 @@
 
 <figure style="text-align: center;">
   <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800" alt="Global Fishing Watch Ocean Mapping Banner">
-  <figcaption style="font-size: 5px; color: #555; margin-top: 5px;">
+  <figcaption style="font-size: 2px; color: #555; margin-top: 5px;">
     Source: Global Fishing Watch (2021)<br>
     <a href="https://globalfishingwatch.org/data/global-ocean-mapping/" target="_blank" style="color: #555;">
       https://globalfishingwatch.org/data/global-ocean-mapping/
