@@ -4,7 +4,7 @@
 <figure style="text-align: center;">
   <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800" alt="Global Fishing Watch Ocean Mapping Banner">
   <figcaption style="font-size: 0.4em; color: #555;">
-    Source: Global Fishing Watch (2021). Mapping Industrial Activity at Sea, 2017–2021.<br>
+    Source: Global Fishing Watch (2021)<br>
     <a href="https://globalfishingwatch.org/data/global-ocean-mapping/" target="_blank">
       https://globalfishingwatch.org/data/global-ocean-mapping/
     </a>
