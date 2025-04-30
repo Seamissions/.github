@@ -42,8 +42,11 @@ Stephen Carroll: [Bren Profile](https://bren.ucsb.edu/people/stephen-carroll) | 
 
 ### Contributors & Acknowledgements 
 [Gavin McDonald](https://emlab.ucsb.edu/about/our-team/gavin-mcdonald), 
+
 Senior Project Scientist, 
+
 Environmental Markets Lab (emLab), 
+
 Bren School of Environmental Science & Management
 
 [Pol Carbo Mestre](https://emlab.ucsb.edu/about/our-team/pol-carbo-mestre), Data Scientist, 
