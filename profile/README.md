@@ -41,7 +41,8 @@ Stephen Carroll: [Bren Profile](https://bren.ucsb.edu/people/stephen-carroll) | 
 [Gavin McDonald](https://github.com/gmcdonald-sfg)
 
 ### Contributors & Acknowledgements 
-[Gavin McDonald](https://emlab.ucsb.edu/about/our-team/gavin-mcdonald), Senior Project Scientist, 
+[Gavin McDonald](https://emlab.ucsb.edu/about/our-team/gavin-mcdonald), 
+Senior Project Scientist, 
 Environmental Markets Lab (emLab), 
 Bren School of Environmental Science & Management
 
