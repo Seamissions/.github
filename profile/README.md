@@ -2,7 +2,7 @@
 ## Quantifying Greenhouse Gas Emissions Associated With Global Seafood Production
 
 <figure style="text-align: center;">
-  <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800" alt="Global Fishing Watch Ocean Mapping Banner">
+  <img src="https://globalfishingwatch.org/wp-content/uploads/global_ocean_mapping_2017_2021_banner-1.webp" width="800" alt="Global Fishing Watch Ocean Emissions Map">
   <figcaption style="font-size: 2px; color: #555; margin-top: 5px;">
     Source: Global Fishing Watch (2021)<br>
     <a href="https://globalfishingwatch.org/data/global-ocean-mapping/" target="_blank" style="color: #555;">
