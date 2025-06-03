@@ -38,41 +38,25 @@ Stephen Carroll: [Bren Profile](https://bren.ucsb.edu/people/stephen-carroll) | 
 [Global Fishing Watch](https://globalfishingwatch.org/)
 
 ### Advisor
-[Gavin McDonald](https://github.com/gmcdonald-sfg)
+
+We are especially grateful for our client and faculty advisor:
+
+[Gavin McDonald](https://github.com/gmcdonald-sfg), Senior Project Scientist, Environmental Markets Lab (emLab), Bren School of Environmental Science & Management
 
 ### Contributors & Acknowledgements 
-[Gavin McDonald](https://emlab.ucsb.edu/about/our-team/gavin-mcdonald), 
 
-Senior Project Scientist, 
+We also thank the following individuals for their support:
 
-Environmental Markets Lab (emLab), 
+Bren School:
+[Dr. Steve Gaines](https://bren.ucsb.edu/people/steve-gaines), Dean & Distinguished Professor; 
+[Dr. Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0), Assistant Teaching Professor; 
+[Dr. Bruce Kendall](https://bren.ucsb.edu/people/bruce-kendall), Professor & Associate Dean;
+[Dr. Sandy Sum](https://bren.ucsb.edu/people/sandy-sum), Teaching Assistant 
 
-Bren School of Environmental Science & Management
+emLab: 
+[Echelle Burns](https://emlab.ucsb.edu/about/our-team/echelle-burns), Project Scientist; 
+[Pol Carbo Mestre](https://emlab.ucsb.edu/about/our-team/pol-carbo-mestre), Data Scientist
 
-[Pol Carbo Mestre](https://emlab.ucsb.edu/about/our-team/pol-carbo-mestre), Data Scientist, 
-Environmental Markets Lab (emLab)
-Bren School of Environmental Science & Management
-
-[Echelle Burns](https://emlab.ucsb.edu/about/our-team/echelle-burns), Project Scientist, 
-Environmental Markets Lab (emLab)
-Bren School of Environmental Science & Management
-
-[Tyler Clavelle](https://globalfishingwatch.org/tyler-clavelle/), Senior Data Scientist, 
-Global Fishing Watch
-
-[Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0), Assistant Teaching Professor, 
-Bren School of Environmental Science & Management
-The University of California, Santa Barbara
-
-[Sandy Sum](https://bren.ucsb.edu/people/sandy-sum), Teaching Assistant & Ph.D. candidate,
-Bren School of Environmental Science & Management
-The University of California, Santa Barbara
-
-[Steve Gaines](https://bren.ucsb.edu/people/steve-gaines), Dean & Distinguished Professor,
-Bren School of Environmental Science & Management
-The University of California, Santa Barbara
-
-[Bruce Kendall](https://bren.ucsb.edu/people/bruce-kendall), Professor & Associate Dean, 
-Bren School of Environmental Science & Management
-The University of California, Santa Barbara
+Global Fishing Watch: 
+[Tyler Clavelle](https://globalfishingwatch.org/tyler-clavelle/), Senior Data Scientist
 
