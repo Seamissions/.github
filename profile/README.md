@@ -35,6 +35,7 @@ Stephen Carroll: [Bren Profile](https://bren.ucsb.edu/people/stephen-carroll) | 
 
 ### Clients
 [EmLab](https://github.com/emlab-ucsb)
+
 [Global Fishing Watch](https://globalfishingwatch.org/)
 
 ### Advisor
@@ -47,16 +48,23 @@ We are especially grateful for our client and faculty advisor:
 
 We also thank the following individuals for their support:
 
-Bren School:
+**Bren School:**
+
 [Dr. Steve Gaines](https://bren.ucsb.edu/people/steve-gaines), Dean & Distinguished Professor; 
+
 [Dr. Carmen Galaz García](https://bren.ucsb.edu/people/carmen-galaz-garcia-0), Assistant Teaching Professor; 
+
 [Dr. Bruce Kendall](https://bren.ucsb.edu/people/bruce-kendall), Professor & Associate Dean;
+
 [Dr. Sandy Sum](https://bren.ucsb.edu/people/sandy-sum), Teaching Assistant 
 
-emLab: 
+**emLab:** 
+
 [Echelle Burns](https://emlab.ucsb.edu/about/our-team/echelle-burns), Project Scientist; 
+
 [Pol Carbo Mestre](https://emlab.ucsb.edu/about/our-team/pol-carbo-mestre), Data Scientist
 
-Global Fishing Watch: 
+**Global Fishing Watch:** 
+
 [Tyler Clavelle](https://globalfishingwatch.org/tyler-clavelle/), Senior Data Scientist
 
